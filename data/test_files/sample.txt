@@ -1,2 +1,0 @@
-This is a sample text file for testing.
-Another line of text for testing. This file is used to demonstrate the Document data structure in LangChain.
