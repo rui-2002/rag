@@ -6,3 +6,5 @@ langchain-community
 sentence-transformers
 faiss-cpu
 chromadb
+langchain-google-genai
+python-dotenv
