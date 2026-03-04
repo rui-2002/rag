@@ -1,6 +1,7 @@
 pypdf
 pymupdf
 langchain
+langgraph
 langchain-core
 langchain-community
 sentence-transformers
@@ -9,3 +10,6 @@ chromadb
 ollama
 langchain-google-genai
 python-dotenv
+langchain_openai
+langchain-groq
+typesense
